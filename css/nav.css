@@ -1,0 +1,39 @@
+/* Navigation bar */
+
+nav {
+  display: flex;
+  background-color: rgb(241, 114, 76);
+  align-items: center;
+  padding: 25px 20px;
+  border-radius: 3px 3px 0 0;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.nav-link {
+  font-size: 0.85rem;
+  margin: 0 3px;
+}
+
+.nav-right {
+  margin-left: auto;
+  text-align: right;
+}
+
+#nav-all {
+  font-weight: 900;
+}
+
+#nav-login {
+  font-weight: bold;
+}
+
+#nav-logout {
+  font-weight: bold;
+}
+
+#nav-user-profile {
+  font-weight: bold;
+}
